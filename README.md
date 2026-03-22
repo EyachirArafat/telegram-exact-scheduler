@@ -73,7 +73,7 @@ python telegram_exact_scheduler.pyw
 
 ### Getting Your API Credentials
 
-See the included [`How_To_Get_API_Credentials.txt`](How_To_Get_API_Credentials.txt) for step-by-step guide, or:
+See the included [`How_To_Get_API_Credentials.md`](How_To_Get_API_Credentials.md) for step-by-step guide, or:
 
 1. Go to [https://my.telegram.org/auth](https://my.telegram.org/auth)
 2. Log in with your phone number
@@ -90,7 +90,7 @@ telegram-exact-scheduler/
 │
 ├── telegram_exact_scheduler.pyw   # Main application (windowless GUI)
 ├── requirements.txt               # Python dependencies
-├── How_To_Get_API_Credentials.txt # Guide to get Telegram API keys
+├── How_To_Get_API_Credentials.md # Guide to get Telegram API keys
 ├── settings.json                  # Auto-saved settings (DO NOT commit yours)
 ├── session_files/                 # Telethon session files (auto-created, gitignored)
 └── .gitignore
