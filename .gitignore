@@ -1,0 +1,46 @@
+# =============================================
+# Python
+# =============================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# =============================================
+# Virtual Environments
+# =============================================
+venv/
+.venv/
+env/
+ENV/
+
+# =============================================
+# 🔐 SENSITIVE / PRIVATE DATA - Never commit!
+# =============================================
+settings.json
+session_files/
+
+# =============================================
+# PyInstaller Build Files
+# =============================================
+*.spec
+requirements_freeze.txt
+
+# =============================================
+# OS & Editor Files
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
